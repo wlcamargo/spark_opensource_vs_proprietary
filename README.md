@@ -6,7 +6,7 @@ O objetivo do vídeo é mostrar que é possível criar e utilizar uma aplicaçã
 
 Tutorial
 ```
-
+https://youtu.be/AvxgoJAXvwc
 ```
 
 Stack Utilizada:
