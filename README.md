@@ -5,9 +5,9 @@
 O objetivo do vídeo é mostrar que é possível criar e utilizar uma aplicação Spark Open Source e depois utilizar os mesmos scripts no ambiente Databricks e Fabric.
 
 Tutorial
-```
+
 https://youtu.be/AvxgoJAXvwc
-```
+
 
 Stack Utilizada:
 - Docker
